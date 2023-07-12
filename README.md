@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Bellabeat-Case-Study
+# Data-Analytics-Bellabeat-Case-Study
 
 ##### Author: Syed Mohammad Afraim
 
