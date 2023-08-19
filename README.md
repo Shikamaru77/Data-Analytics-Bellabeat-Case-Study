@@ -6,7 +6,7 @@
 
 ##### [Kaggle](https://www.kaggle.com/code/syedmohammadafraim2/case-study-bellabeat-using-pythons-3d-plots)
 ##### [Tableau](https://public.tableau.com/app/profile/syed.mohammad.afraim/viz/BellabeatDataAnalysisCaseStudy_16906532777260/CoverPage)
-Sure, here's the content you provided restructured and paraphrased for your GitHub readme file:
+
 
 ---
 
@@ -26,7 +26,7 @@ The main business task is to identify trends in consumer use of Bellabeat device
 
 **Dataset and Preparation**
 
-The FitBit Fitness Tracker Data, available on (Kaggle)[https://www.kaggle.com/datasets/arashnic/fitbit], is used for analysis. We address potential limitations due to the dataset's small size and absence of demographic info. Initial data selection focuses on user activity levels and daily metrics.
+The FitBit Fitness Tracker Data, available on [Kaggle](https://www.kaggle.com/datasets/arashnic/fitbit), is used for analysis. We address potential limitations due to the dataset's small size and absence of demographic info. Initial data selection focuses on user activity levels and daily metrics.
 
 **Analysis**
 
@@ -36,6 +36,56 @@ The analysis reveals insights such as user activity distribution, steps per week
 
 Trends in smart device usage provide valuable insights for Bellabeat's target audience of women. Engaging exercise routines and strategic notifications could enhance user engagement. The insights guide Bellabeat's marketing strategy towards user-centric products and fostering a supportive community.
 
----
+Finally, we will review the initial business inquiries and present you with significant insights and practical suggestions to tackle the identified obstacles and capitalize on the potential
+opportunities.
+1. What are the notable trends in the smart device usage?
+Ans:
+The analysis revealed that a significant proportion (78.46%) of users primarily utilized the smart device for tracking sedentary minutes, indicating a lack of active engagement
+towards improving their overall fitness and well-being.
+A noticeable decline in device usage was observed during the middle of the week, with weekends showing the least activity levels. This pattern suggests that users tend to be
+more active on weekdays but are less motivated or consistent with their activity tracking on weekends.
+The majority of users demonstrated a healthy range of heartrate readings, indicating that they are maintaining a good level of cardiovascular fitness. However, there is a smaller
+group of users whose heartrate readings fall into the "bad" range, indicating potential health concerns that may require further attention and intervention.
+2. How could these apply to benefit Bellabeat customers?
+Ans:
+Considering that the primary target audience for the smart device is young and adult women, the identified trends provide valuable insights for the company to develop more
+relevant and effective products or technologies that can benefit its customers.
+For instance, customers with mild heartrate readings could be encouraged to engage in activities like a 10-minute dance routine with music daily, as this has the potential to
+improve and maintain stable heartrate levels. By incorporating such strategies, the company can cater to the specific needs and preferences of its target audience, enhancing
+their overall experience and promoting a healthier lifestyle.
+3. How could these trends help to shape Bellabeat's marketing strategy? Ans:
+As previously mentioned, the use of various techniques and technologies can be beneficial if they are utilized for the intended purpose.
+The observed trend of a large number of users using the Fitbit tracker but having high sedentary minutes indicates the need to incorporate engaging and enjoyable forms of
+exercise. By incorporating such strategies, the marketing approach can be significantly enhanced.
+The insights and patterns obtained help the Bellabeat marketing team in delivering optimal products that inspire users to make informed purchase decisions and establish a
+strong reliance on Bellabeat for their fitness tracking needs.
+4. What should be focused more to shape marketing strategy?
+Ans: I would recommend the following techniques and technologies to improve the marketing strategies:
 
-Feel free to use and modify this content as needed for your GitHub readme. Make sure to provide proper credit and citations if you're using data or information from external sources.
+Sure, here's the information formatted into tables:
+
+**Table 1: 3-Days Notification Strategy**
+
+| Tech | Description |
+| --- | --- |
+| 3-Days Notification | Many fitness apps overwhelm users with daily notifications. Bellabeat can implement a three-day notification strategy. By tracking health activities from Tuesday to Friday and sharing results on Friday, this approach optimizes user engagement and motivation for the next three days. This targeted notification system enhances user experience, encouraging consistent fitness progress. |
+
+**Table 2: Fun Exercises on Video Platform**
+
+| Tech | Description |
+| --- | --- |
+| Fun Exercises | Bellabeat can promote healthy lifestyles by encouraging users to showcase health-related skills on their video platform. Activities like dance skills can be showcased, fostering a supportive community that encourages healthy habits. Users inspire one another and access valuable resources for motivation and inspiration. |
+
+**Table 3: Points and Gifts Reward System**
+
+| Tech | Description |
+| --- | --- |
+| Points and Gifts | Bellabeat can boost user engagement by implementing a point-based reward system. Users earn points by participating in health activities, achieving milestones, and promoting the platform. Redeemable for exciting rewards like Bellabeat products or exclusive experiences, this gamified approach creates competition and camaraderie, motivating users to actively engage and inspire others. |
+
+**Table 4: Durability of Tracking Devices**
+
+| Tech | Description |
+| --- | --- |
+| Durability of Tracking Devices | Bellabeat can enhance trackers with sweatproof and waterproof capabilities, breathable materials, long-lasting batteries, and customizable designs. These improvements offer convenience, durability, and personalization, attracting consistent usage and contributing to a more effective marketing strategy. |
+
+---
