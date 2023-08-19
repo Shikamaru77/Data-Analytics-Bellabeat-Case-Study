@@ -40,6 +40,7 @@ Finally, we will review the initial business inquiries and present you with sign
 opportunities.
 
 **1. What are the notable trends in the smart device usage?**
+
 Ans:
 The analysis revealed that a significant proportion (78.46%) of users primarily utilized the smart device for tracking sedentary minutes, indicating a lack of active engagement
 towards improving their overall fitness and well-being.
@@ -49,6 +50,7 @@ The majority of users demonstrated a healthy range of heartrate readings, indica
 group of users whose heartrate readings fall into the "bad" range, indicating potential health concerns that may require further attention and intervention.
 
 **2. How could these apply to benefit Bellabeat customers?**
+
 Ans:
 Considering that the primary target audience for the smart device is young and adult women, the identified trends provide valuable insights for the company to develop more
 relevant and effective products or technologies that can benefit its customers.
@@ -57,6 +59,7 @@ improve and maintain stable heartrate levels. By incorporating such strategies, 
 their overall experience and promoting a healthier lifestyle.
 
 **3. How could these trends help to shape Bellabeat's marketing strategy?**
+
 Ans:
 As previously mentioned, the use of various techniques and technologies can be beneficial if they are utilized for the intended purpose.
 The observed trend of a large number of users using the Fitbit tracker but having high sedentary minutes indicates the need to incorporate engaging and enjoyable forms of
@@ -65,6 +68,7 @@ The insights and patterns obtained help the Bellabeat marketing team in deliveri
 strong reliance on Bellabeat for their fitness tracking needs.
 
 4. What should be focused more to shape marketing strategy?
+5. 
 Ans: I would recommend the following techniques and technologies to improve the marketing strategies:
 
 
