@@ -4,8 +4,8 @@
 
 ##### Date: 9th July, 2023
 
-##### [Kaggle](https://www.kaggle.com/code/syedmohammadafraim2/case-study-bellabeat-using-pythons-3d-plots)
-##### [Tableau](https://public.tableau.com/app/profile/syed.mohammad.afraim/viz/BellabeatDataAnalysisCaseStudy_16906532777260/CoverPage)
+##### [Kaggle link of my project](https://www.kaggle.com/code/syedmohammadafraim2/case-study-bellabeat-using-pythons-3d-plots)
+##### [Tableau viz of my project](https://public.tableau.com/app/profile/syed.mohammad.afraim/viz/BellabeatDataAnalysisCaseStudy_16906532777260/CoverPage)
 
 
 ---
@@ -38,6 +38,7 @@ Trends in smart device usage provide valuable insights for Bellabeat's target au
 
 Finally, we will review the initial business inquiries and present you with significant insights and practical suggestions to tackle the identified obstacles and capitalize on the potential
 opportunities.
+
 **1. What are the notable trends in the smart device usage?**
 Ans:
 The analysis revealed that a significant proportion (78.46%) of users primarily utilized the smart device for tracking sedentary minutes, indicating a lack of active engagement
@@ -46,6 +47,7 @@ A noticeable decline in device usage was observed during the middle of the week,
 more active on weekdays but are less motivated or consistent with their activity tracking on weekends.
 The majority of users demonstrated a healthy range of heartrate readings, indicating that they are maintaining a good level of cardiovascular fitness. However, there is a smaller
 group of users whose heartrate readings fall into the "bad" range, indicating potential health concerns that may require further attention and intervention.
+
 **2. How could these apply to benefit Bellabeat customers?**
 Ans:
 Considering that the primary target audience for the smart device is young and adult women, the identified trends provide valuable insights for the company to develop more
@@ -53,6 +55,7 @@ relevant and effective products or technologies that can benefit its customers.
 For instance, customers with mild heartrate readings could be encouraged to engage in activities like a 10-minute dance routine with music daily, as this has the potential to
 improve and maintain stable heartrate levels. By incorporating such strategies, the company can cater to the specific needs and preferences of its target audience, enhancing
 their overall experience and promoting a healthier lifestyle.
+
 **3. How could these trends help to shape Bellabeat's marketing strategy?**
 Ans:
 As previously mentioned, the use of various techniques and technologies can be beneficial if they are utilized for the intended purpose.
@@ -60,6 +63,7 @@ The observed trend of a large number of users using the Fitbit tracker but havin
 exercise. By incorporating such strategies, the marketing approach can be significantly enhanced.
 The insights and patterns obtained help the Bellabeat marketing team in delivering optimal products that inspire users to make informed purchase decisions and establish a
 strong reliance on Bellabeat for their fitness tracking needs.
+
 4. What should be focused more to shape marketing strategy?
 Ans: I would recommend the following techniques and technologies to improve the marketing strategies:
 
