@@ -68,7 +68,7 @@ The insights and patterns obtained help the Bellabeat marketing team in deliveri
 strong reliance on Bellabeat for their fitness tracking needs.
 
 4. What should be focused more to shape marketing strategy?
-5. 
+
 Ans: I would recommend the following techniques and technologies to improve the marketing strategies:
 
 
